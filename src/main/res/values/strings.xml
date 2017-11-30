@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NeedHelp</string>
+    <string name="title">Довідник УкрАвтодору</string>
+    <string name="call_title">Здійснити екстрений дзвінок</string>
+    <string name="no_perm">Кепсько, дзвонити не зможу. Проте ти тут головний.</string>
+    <string name="need_perm">Щоб дзвонити мені треба дозвіл</string>
+    <string name="just_give">Я марно не прошу, дай дозвіл</string>
+    <string name="perm_deny">Халепа, нема дозволу</string>
+    <string name="okay_no_perm">Добре, але як передумаеш то добав дозволи вручну</string>
+    <string name="manual_perm">До налаштувань</string>
+    <string name="info">Застереження</string>
+    <string name="info_text">Телефонуйте лише у випадку, коли ви дійсно потрапили у надзвичайну ситуацію і потребуєте допомоги. Дзвінки приймаються цілодобово.</string>
+    <string name="okay_main">Зрозумів</string>
+</resources>
